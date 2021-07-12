@@ -1,6 +1,6 @@
 # Information
 You Are An Idiot is back in windows!
-You now can run in Windows, in browser is do not have, but a flash version will have soon.
+You now can run in Windows, in browser is do not have, flash version realeased!
 
 # Downloading
 ## Windows:
